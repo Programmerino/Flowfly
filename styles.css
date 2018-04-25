@@ -1,0 +1,32 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logoHolder {
+    font-size: 0;
+    font-weight: 300;
+}
+
+.logText {
+    font-size: 50px;
+}
+
+.page-content {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+}
+
+body {
+    background-color: #bec5df;
+}
+
+.mdl-mini-footer {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+}
